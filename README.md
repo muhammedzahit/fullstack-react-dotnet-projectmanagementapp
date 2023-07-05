@@ -8,6 +8,6 @@ This is a fullstack oroject management app. It is built with React and .NET Core
 
 I will be breaking down the app into sections. You can traverse the sections by git checking out the corresponding branch. Or just click on the links below.
 
-* [Section 1 : Constructing Project Skeleton](https://github.com/muhammedzahitfullstack-react-dotnet-projectmanagementapp/tree/sec1)
+* [Section 1 : Constructing Project Skeleton](https://github.com/muhammedzahit/fullstack-react-dotnet-projectmanagementapp/tree/sec1)
 
 
